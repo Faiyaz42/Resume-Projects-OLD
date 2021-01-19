@@ -1,6 +1,6 @@
-# MINESWEEPER GAME
+# MINESWEEPER GAME 💣 🧹
 ***
-# Minesweeper + Player
+# Minesweeper + Player 🤖
 
 ***
 
