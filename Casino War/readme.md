@@ -1,4 +1,4 @@
-# Casino War
+# Casino War 🎰 ⚔️
 ***
 # Implementation of the board game Casino War in python.
 
