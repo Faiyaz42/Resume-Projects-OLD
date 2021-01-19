@@ -1,5 +1,5 @@
-first_name: Faiyaz
-last_name: Ahmed
-id: 1540603
-Collaborators(separated by semicolon): Argho Roy;
-Comments(no newline allowed): I mistakenly chose a new deck for each card,therefore the decks empty out earliar and shows that its empty.It works perfectly other than that.I couldn't fix it soon enough so I thought might as well let you know.
+# Casino War
+***
+Implementation of the board game Casino War in python.
+
+# How to Play Casino War (explanation video) : https://www.youtube.com/watch?v=uimPY3I1aw4
