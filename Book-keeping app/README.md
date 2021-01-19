@@ -1,6 +1,6 @@
 # BookBox 📚 📦
 ***
-## CMPUT301 FALL 2020 TEAM 14 - Course Project  
+## CMPUT301 FALL 2020 - Course Project  
 
 Link to shared repo - https://github.com/CMPUT301F20T14/BookBox
   
