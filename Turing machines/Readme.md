@@ -1,1 +1,1 @@
-<strong> Please download them first in order to explore  </strong>
+<strong> Please download them first in order to explore.  </strong>
