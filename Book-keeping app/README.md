@@ -1,4 +1,4 @@
-# BookBox
+# BookBox 📚 📦
 ***
 ## CMPUT301 FALL 2020 TEAM 14 - Course Project  
 
