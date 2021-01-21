@@ -24,6 +24,7 @@ In terminal:
 $ brew install node
 $ git clone this repo or download and extract the Cliptionary folder to your desktop directory
 $ cd Cliptionary (or enter the directory it is saved in)
+$ npm install
 $ node ./cliptionary.js
 ```
 If you don't have brew, get it [here](https://brew.sh/#install)
@@ -33,6 +34,7 @@ In command line or powershell:
 ```sh
 > git clone this repo or download and extract the Cliptionary folder to your desktop directory
 > cd desktop/Cliptionary (or enter the directory it is saved in)
+> npm install
 > node cliptionary.js
 ```
 *Sometimes the dictionary tab might not open ,in that case, just close the command line or terminal and redo the steps from cd -directory-.
