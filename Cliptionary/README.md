@@ -3,7 +3,7 @@ Ever started reading in a new language only to quickly realize the importance of
 
 Fear no more! Cliptionary has got your back. With automatic searches right from your clipboard, you can forget about manually searching every word!
 
-## Just highlight,right-click and copy the text on screen and you will see your definition/translation pop up on the dictionary tab that has been opened.
+### Just highlight,right-click and copy the text on screen and you will see your definition/translation pop up on the dictionary tab that has been opened.*
 
 The default dictionary is jisho.org. Specify your own dictionary as an optional argument
 ```sh
@@ -22,7 +22,7 @@ Cliptionary requires the following dependencies to be installed on your system:
 In terminal:
 ```sh
 $ brew install node
-$ git clone this repo or download & unzip or extract the Cliptionary folder to your desktop directory
+$ git clone this repo or download and unzip or extract the Cliptionary folder to your desktop directory
 $ cd Cliptionary (or enter the directory it is saved in)
 $ node ./cliptionary.js
 ```
@@ -31,9 +31,10 @@ Alternatively you could directly install [npm and node](https://www.npmjs.com/ge
 ### Windows
 In command line or powershell:
 ```sh
-> git clone this repo or download & unzip or extract the Cliptionary folder to your desktop directory
+> git clone this repo or download and unzip or extract the Cliptionary folder to your desktop directory
 > cd desktop/Cliptionary (or enter the directory it is saved in)
 > node cliptionary.js
 ```
+*Sometimes the dictionary tab might not open ,in that case, just close the command line or terminal and redo the steps from cd -directory-.
 
 This project was made as a submission to HackEd 2021.
