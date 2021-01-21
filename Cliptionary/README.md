@@ -3,7 +3,7 @@ Ever started reading in a new language only to quickly realize the importance of
 
 Fear no more! Cliptionary has got your back. With automatic searches right from your clipboard, you can forget about manually searching every word!
 
-### Just highlight,right-click and copy the text on screen and you will see your definition/translation pop up on the dictionary tab that has been opened.*
+### Just highlight , right-click and copy the text on screen and you will see your definition/translation pop up on the dictionary tab that has been opened.*
 
 The default dictionary is jisho.org. Specify your own dictionary as an optional argument
 ```sh
