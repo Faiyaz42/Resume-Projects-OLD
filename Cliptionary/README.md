@@ -36,4 +36,4 @@ In command line or powershell:
 > node cliptionary.js
 ```
 
-This project was made as a submission to HackEd 2021
+This project was made as a submission to HackEd 2021.
