@@ -37,6 +37,6 @@ In command line or powershell:
 > npm install
 > node cliptionary.js
 ```
-*Sometimes the dictionary tab might not open ,in that case, just close the command line or terminal and redo the steps from cd -directory-.
+*Sometimes the dictionary tab might not open ,in that case, just close the command line or terminal and re-run node Cliptionary.js for windows or node ./Cliptionary.js for macOS in the Cliptionary directory.
 
 This project was made as a submission to HackEd 2021.
