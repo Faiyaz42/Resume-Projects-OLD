@@ -3,10 +3,12 @@ Ever started reading in a new language only to quickly realize the importance of
 
 Fear no more! Cliptionary has got your back. With automatic searches right from your clipboard, you can forget about manually searching every word!
 
+## Just highlight,right-click and copy the text on screen and you will see your definition/translation pop up on the dictionary tab that has been opened.
+
 The default dictionary is jisho.org. Specify your own dictionary as an optional argument
 ```sh
-$ node ./watchClipboard.js
-$ node ./watchClipboard.js https://www.dictionary.com/browse/
+$ node ./cliptionary.js
+$ node ./cliptionary.js https://www.dictionary.com/browse/
 ```
 Pretty useful anytime you're constantly searching up words in the same language. From Shakespeare plays to visual novels to Japanese light novels, Cliptionary automates your repetitive search actions. We particularly recommend using it in split screen with your source text!
 
@@ -20,9 +22,8 @@ Cliptionary requires the following dependencies to be installed on your system:
 In terminal:
 ```sh
 $ brew install node
-$ git clone https://github.com/ryanjacquess/Cliptionary
-$ cd Cliptionary
-$ npm install
+$ git clone this repo or download & unzip or extract the Cliptionary folder to your desktop directory
+$ cd Cliptionary (or enter the directory it is saved in)
 $ node ./cliptionary.js
 ```
 If you don't have brew, get it [here](https://brew.sh/#install)
@@ -30,9 +31,8 @@ Alternatively you could directly install [npm and node](https://www.npmjs.com/ge
 ### Windows
 In command line or powershell:
 ```sh
-> git clone https://github.com/ryanjacquess/Cliptionary
-> cd Cliptionary
-> npm install
+> git clone this repo or download & unzip or extract the Cliptionary folder to your desktop directory
+> cd desktop/Cliptionary (or enter the directory it is saved in)
 > node cliptionary.js
 ```
 
