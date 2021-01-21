@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "axios": "^0.21.1",
-    "browser-sync": "^2.26.13",
-    "clipboardy": "^2.3.0"
-  }
-}
