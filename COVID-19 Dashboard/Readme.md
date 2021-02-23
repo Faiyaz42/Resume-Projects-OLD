@@ -1,2 +1,3 @@
+# Tableau COVID-19 Dashboard 📈
 
-Please download them first in order to explore.
+<strong> Please download the workbook first in order to explore.  </strong>
