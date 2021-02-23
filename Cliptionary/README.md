@@ -39,4 +39,4 @@ In command line or powershell:
 ```
 *Sometimes the dictionary tab might not open ,in that case, just close the command line or terminal and re-run node Cliptionary.js for windows or node ./Cliptionary.js for macOS in the Cliptionary directory.
 
-This project was made as a submission to HackEd 2021.
+--->This project was made as a submission to HackEd 2021.
