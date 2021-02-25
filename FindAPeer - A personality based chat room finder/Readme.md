@@ -1,4 +1,4 @@
-#         ![Logo](https://github.com/natewu/CalgaryHacks/blob/master/Logo.jpg)
+#         ![Logo](https://github.com/Faiyaz42/Resume-Projects/blob/main/FindAPeer%20-%20A%20personality%20based%20chat%20room%20finder/Logo.jpg)
 
 # FindAPeer - A personality based chat room finder.
 ***
