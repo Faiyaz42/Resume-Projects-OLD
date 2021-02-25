@@ -8,4 +8,4 @@ An Android application that allows users to list the books they own, loan them o
 ### Demo - https://youtu.be/dnKkCAykg50
 
 ***
-CMPUT301 FALL 2020 - Course Project
+
