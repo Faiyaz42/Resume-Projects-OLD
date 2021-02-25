@@ -1,0 +1,42 @@
+user-books
+	The user has a list of owned books, and a list of borrowed books
+		-- make these lists subclasses of a class BookList?
+			-- (eg. deleting from owned removes the book, deleting from borrowed return it)
+			-- user associated with the BookList classes, which are associated with the books
+			-- then BorrowedBooksActivity is associated with the BorrowedBookList subclass
+			-- and Book relates to User (association)
+
+user-requests
+	The user has a list of requests. (association)
+		-- remove owner attribute from requests? (implicit -> unidirectional dependency)
+		-- show an association with books (unidirectional dependency)
+		
+	-- must have a way to separate incoming, outgoing requests
+		-- create class RequestList -> 2 subclasses?
+		-- association between user-requests (requests ask for default geolocation)
+
+user-notifications
+	Notifications are associated with a user 
+		-- must show relation to user (dependency)
+	-- change to that User is composed of Notifications? (faster to find in database?)
+
+user-ViewProfileActivity
+	-- show relation (association)
+
+user-ViewUserProfileActivity
+	-- show relation
+
+ViewProfileActivity, ViewUserProfileActivity
+	-- make these subclasses?
+
+GeoLocation
+	-- Do we set a default GeoLocation in User (so the user doesn't have to pick a location for every accepted request?)
+		-- user-requests association
+book-request
+	-- add association
+
+notification-many
+	-- on creation of a notification (request accepted, declined, etc)
+
+
+*Most of these will probably have to be changed for the next part of the assignment
