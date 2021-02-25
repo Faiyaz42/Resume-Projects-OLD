@@ -10,3 +10,5 @@ While there are many social media applications for people to communicate over,ho
 Our app puts emphasis on people's personalities before pairing them with someone with a similar personality profile.Therefore,right off the bat the two users do not feel like they are talking to a total stranger but somneone who share similar interests and understandings.We have additional features that enable the users to break the ice and talk more freely about their favourite hobbies,places to visit,food etc.
 
 ## Demo - https://youtu.be/jmUwmNiifkk
+
+## Link to the app repository - https://github.com/Faiyaz42/FindAPeer
