@@ -136,6 +136,7 @@ def main():
 				except ZeroDivisionError:
 					print('Player won 0 out of 0 hands,or 0.000%')
 					print('Goodbye')
+					input("Press Enter to exit")
 				Play = False
 
 				
