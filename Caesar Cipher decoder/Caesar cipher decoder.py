@@ -13,7 +13,8 @@ else:
         read_file = open (file_name,'r')
         print ("\nDeciphered texts:\n")
     except FileNotFoundError:
-        print("Oops! No file with the name %s found in the folder..." %(file_name))    
+        print("Oops! No file with the name %s found in the folder..." %(file_name))
+        input("Press enter to close")
 
 
 for lines in read_file:
