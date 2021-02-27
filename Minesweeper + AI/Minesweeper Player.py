@@ -841,4 +841,5 @@ if __name__ == "__main__":
         print("\nGames won = %d" %(Won))
         print("\nGames lost = %d" %(Lost))
         print("\nPercentage of wins = %.2f" %round(Won / (Won+Lost) * 100, 2))
+        input("Press Enter to exit")
         
