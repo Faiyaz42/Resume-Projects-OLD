@@ -21,3 +21,5 @@ Our project is aimed to work with Indigenous communities living on reserves that
 
 
 ### Our mockup online platform: https://organic-d685fa.webflow.io
+
+Team : Lydia Mutoni,Peter Johnson,John Johnson,Laura Lee & Faiyaz Ahmed
