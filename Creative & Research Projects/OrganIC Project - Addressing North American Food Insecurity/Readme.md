@@ -6,7 +6,7 @@
  ## * This project was one of the <em> selected projects from Ethical Development Hackathon 2021 sent to a group at the Government of Manitoba aiming to crowdsource solutions for food insecure communities.</em>
 ***
 
-### Premise:
+
 ## Food Insecurity in North America:
 - 1 in 8 Canadian households are food insecure.(4.5 millionCanadians pre-pandemic)
 - Provincial disparities: NU households-49.4%;NWT (15.9%),YT (12.6%), NS (10.9%), and MB (10.2%)
