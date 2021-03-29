@@ -1,3 +1,5 @@
+![Logo](https://github.com/Faiyaz42/Resume-Projects/blob/main/Creative%20%26%20Research%20Projects/OrganIC%20Project%20-%20Addressing%20North%20American%20Food%20Insecurity/organic.jpg)
+
 # An OrganIC remedy: Organizational Interface for Cultivation 
 
 ***
