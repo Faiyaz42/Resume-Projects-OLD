@@ -1,4 +1,4 @@
-# Creative & Design projects 🎨 📖
+# Creative & Research projects 🎨 📖
 
 Google drive host for Interactive Storytelling html files.
 
