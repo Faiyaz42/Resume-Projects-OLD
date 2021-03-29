@@ -5,7 +5,7 @@
 ***
 
 ### Premise:
-- 1 in 8 Canadian householdsare food insecure.(4.5 millionCanadians pre-pandemic)
+- 1 in 8 Canadian households are food insecure.(4.5 millionCanadians pre-pandemic)
 - Provincial disparities: NU households-49.4%;NWT (15.9%),YT (12.6%), NS (10.9%), and MB (10.2%)
 - 2 in 5 Canadian University students
 - Black and off-reserve Indigenous Canadians are more than twice as likely to be food insecure as white Canadians
