@@ -2,7 +2,7 @@
 #include <stdbool.h> 
  
 
-//finds thevertex
+//finds the vertex
 int find_vert(int i,int dis_sets[]) 
 { 
 	while (dis_sets[i] != i) 
@@ -98,7 +98,7 @@ void primMST(unsigned long num,int adj[num][num]) {
 		inMST[i] = true; //insert in MST and update inMST
 
 
-    //updadate the adjacent vetices weights;check the vertices which are not yet in MST
+    //update the adjacent vetices weights;check the vertices which are not yet in MST
 		for (int j = 0; j < num; j++) 
       //update the weight only if adj[i][j] is smaller than weight 
 			if (adj[i][j] != -1 && inMST[j] == false && adj[i][j] < weight[j]){ 
